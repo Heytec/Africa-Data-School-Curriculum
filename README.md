@@ -19,7 +19,7 @@
 | 15      | Matplotlib                                                      | Yes      |                                                                             |
 | 16      | Sales Analysis                                                  | No       |                                                                             |
 | 17      | Plotly                                                          | Yes      |                                                                             |
-| 18      | Mapbox (Geographical plot)                                      | Yes      |                                                                             |
+| 18      | Geoplotting using Folium                                        | Yes      |                                                                             |
 | 19      | Streamlit                                                       | Yes      |                                                                             |
 | 20      | End to end data analysis project                                | Yes      |                                                                             |
 | 21      | Introduction to Machine Learning                                | No       |                                                                             |
